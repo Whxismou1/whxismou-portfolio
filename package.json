@@ -1,0 +1,39 @@
+{
+  "name": "whixmou-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@headlessui/react": "^2.2.7",
+    "@react-email/components": "^0.5.3",
+    "@react-email/render": "^1.2.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.12",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.11",
+    "lucide-react": "^0.542.0",
+    "next": "15.5.2",
+    "next-themes": "^0.4.6",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-hot-toast": "^2.6.0",
+    "resend": "^6.1.0",
+    "sass": "^1.92.1",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.2",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1.3.8"
+  }
+}
